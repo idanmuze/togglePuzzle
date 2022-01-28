@@ -21,7 +21,14 @@ _global_script_class_icons={
 [application]
 
 config/name="puzzleGrind"
+run/main_scene="res://Main/MainV2.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1280
+window/size/height=720
+window/size/resizable=false
 
 [gdnative]
 
